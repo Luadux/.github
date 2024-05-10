@@ -1,5 +1,5 @@
 # Hello from Luadux!
-### we represent a research project that aims to improve code reverse-ingineering!
+### we represent a research project that aims to improve code reverse-engineering!
 
 Meanwhile, the project is still under development 🔨🔨
 

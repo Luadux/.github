@@ -1,9 +1,1 @@
-# Hello from Luadux!
-### we represent a research project that aims to improve code reverse-engineering!
-
-Meanwhile, the project is still under development 🔨🔨
-
-But we're dev-logging the progress and planning to give
-free access to supporters and cool ppl.
-
-Join us at Discord 👍!
+Edit 16/01/2025: as of now, it's questionable if project I'm intending to work on will commit to the open-source world.
